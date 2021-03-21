@@ -1,7 +1,7 @@
 const Discord   = require('discord.js')
 const BaseURL   = 'https://retrowave.ru'
 const Client    = new Discord.Client()
-const Token     = 'Nzk3MjAxNjE2MDg4MDcyMjQy.X_jB3A.zXDxev2TiKpUcxzOEAstRbABnB4'
+const Token     = 'your-token'
 const axios     = require('axios')
 const Guilds    = new Discord.Collection()
 
